@@ -1,0 +1,6 @@
+[package]
+name = "minikanren"
+version = "0.1.0"
+authors = ["mmt"]
+
+[dependencies]
